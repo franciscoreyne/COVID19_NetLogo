@@ -6,7 +6,9 @@ Desarrollo de ABM para predicción de la propagación del virus COVID19
 El objetivo de estas simulaciones es predecir la propagacion de covid19 en diferentes contextos: una poblacion y dos condominios (mas ricos)
 
 
-Crando agentes dentro de los limites:
+Crando agentes:
+
+http://smaldino.com/wp/covid-19-modeling-the-flattening-of-the-curve/
 
 https://stackoverflow.com/questions/51306214/create-turtles-according-to-real-population-within-vectors
 
